@@ -1,0 +1,24 @@
+Brotli @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_67j4p18ie3/croot/brotli-split_1714483158198/work
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c7dh9wvd8f/croot/certifi_1725551679893/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+filelock @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cd61an5em3/croot/filelock_1700591192468/work
+gmpy2 @ file:///opt/concourse/worker/volumes/live/3b0f84f9-2a9c-48c9-6340-601e345ea292/volume/gmpy2_1645455548178/work
+idna @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2b_jn555_n/croot/idna_1714398852258/work
+Jinja2 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_8dveqartkv/croot/jinja2_1730902844110/work
+MarkupSafe @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3a_cffw83x/croot/markupsafe_1704205995714/work
+mkl-fft @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_af8wl3mjfu/croot/mkl_fft_1695058185839/work
+mkl-random @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0fq2s894lk/croot/mkl_random_1695059822529/work
+mkl-service==2.4.0
+mpmath @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_8fyoqwupl2/croot/mpmath_1690848275746/work
+networkx @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_8et6yjganu/croot/networkx_1717597507931/work
+numpy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b7iptlxgej/croot/numpy_and_numpy_base_1708638622773/work/dist/numpy-1.26.4-cp39-cp39-macosx_10_9_x86_64.whl#sha256=1ca37e4fdfd421b20423d3f5f08de21aeee8ef917ddcee6667076d3dc7937879
+pillow @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b6jn17w9_s/croot/pillow_1721059443777/work
+PySocks @ file:///opt/concourse/worker/volumes/live/112288ac-9cb0-4e73-768b-13baf4ca6419/volume/pysocks_1605305820043/work
+PyYAML @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_34t43scp15/croot/pyyaml_1728658999838/work
+requests @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2eh84h3yiv/croot/requests_1730999127987/work
+sympy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4by5rj7_56/croot/sympy_1724938199913/work
+torch==2.2.2
+torchaudio==2.2.2
+torchvision==0.17.2
+typing_extensions @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0b3pj9yhn2/croot/typing_extensions_1715268854415/work
+urllib3 @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_7dvsr0a5y0/croot/urllib3_1727769823716/work
